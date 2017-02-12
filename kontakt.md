@@ -2,8 +2,10 @@
 layout: page
 title: Kontakt
 permalink: /kontakt/
+order: 5
 ---
 
+```
 Ulla Raczinski
 Biggestr. 21
 50931 Köln-Lindenthal
@@ -11,3 +13,4 @@ Biggestr. 21
 Fax: 0221 – 94339851
 
 E-Mail: u.raczinski@t-online.de
+```
