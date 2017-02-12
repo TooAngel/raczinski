@@ -12,5 +12,12 @@ Sprechstunde:
  - Montag und Freitag: 8-16 Uhr
  - Dienstag und Donnerstag: 8-18 Uhr
  - Mittwoch: 8-13 Uhr
- 
-Anmeldung nur telefonisch – 5 Min. vor der vollen Stunde: Mo.-Fr. 8-12 Uhr und 14-18 Uhr.
+
+
+ Anmeldung zur Psychotherapie nur nach telefonischer Vereinbarung.
+
+ Telefonsprechstunde:
+
+  - Di., Mi., und  Do. 8:00 Uhr bis 9:15 Uhr.
+
+ Sprechstunde nach telefonischer Vereinbarung.

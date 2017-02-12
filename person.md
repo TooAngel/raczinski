@@ -13,8 +13,8 @@ order: 1
  - Diplom im Fach Psychologie: 1983
  - Ärztliches Staatsexamen: 1990
  - AiP-Zeit: 1990-1991
- - 1. Jan.1992: Approbation als Ärztin durch den Regierungspräsidenten Köln Mitglied der Ärztekammer Nordrhein; Düsseldorf
- - 5. März 1999: Approbation als Psychologische Psychotherapeutin durch die Bezirksregierung Köln Mitglied der Psychotherapeutenkammer; Düsseldorf
+ - 1 Jan. 1992: Approbation als Ärztin durch den Regierungspräsidenten Köln Mitglied der Ärztekammer Nordrhein; Düsseldorf
+ - 5 März 1999: Approbation als Psychologische Psychotherapeutin durch die Bezirksregierung Köln Mitglied der Psychotherapeutenkammer; Düsseldorf
  - Ärztliche stationäre Ausbildungen seit 1990 in den Fächern Innere Medizin, Radiologie, Onkologie, Psychiatrie und Psychosomatik – parallel ambulante psychotherapeutische Tätigkeit.
  - 1996 – Zusatzbezeichnung „Psychotherapie“
  - Seit Nov.2002 ausschließlich ambulante psychotherapeutische Tätigkeit.
@@ -31,7 +31,9 @@ order: 1
  - 2009-2010 Weiterbildung Psychosoziale Onkologie – WPO-PT mit Zertifikat
  - 2014-2015: Ausbildung in Hypnose und Hypnotherapie an den Milton-Erikson-Instituten in Heidelberg (G. Schmidt u. B. Trenkle) und Bonn (A. Lang).
  - Seit 2015: Ausbildung in Ego-State-Therapie und Körperarbeit bei W. Hartmann (MEISA), Weiterbildung zur EMDR-Supervisorin.
+ - 2016 - Supervisorin (Psychotherapeutenkammer NRW) - tiefenpsychologisch fundierte Psychotherapie
 
+Schwerpunkte: EMDR und Psychoonkologie.
 Mitglied in den Fachgesellschaften EMDRIA und DeGPT.
 
 ![Apollo Raczinski]({{ site.url }}/assets/images/Apollo-216x300.jpg)
