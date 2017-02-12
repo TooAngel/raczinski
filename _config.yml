@@ -8,7 +8,8 @@ email: u.raczinski@t-online.de
 description: >
   Ärztin-Psychotherapie, Psychologische Psychotherapeutin, Psychoonkologie, Psychotraumatologie
 baseurl: ""
-url: "http://www.dr-ulla-raczinski.de"
+#url: "http://www.dr-ulla-raczinski.de"
+url: "https://tooangel.github.io/raczinski/"
 twitter_username:
 github_username:
 
