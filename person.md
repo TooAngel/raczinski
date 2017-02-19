@@ -32,7 +32,6 @@ order: 1
  - 2014-2015: Ausbildung in Hypnose und Hypnotherapie an den Milton-Erikson-Instituten in Heidelberg (G. Schmidt u. B. Trenkle) und Bonn (A. Lang).
  - Seit 2015: Ausbildung in Ego-State-Therapie und Körperarbeit bei W. Hartmann (MEISA), Weiterbildung zur EMDR-Supervisorin.
  - 2016 - Supervisorin (Psychotherapeutenkammer NRW) - tiefenpsychologisch fundierte Psychotherapie
-
 Schwerpunkte: EMDR und Psychoonkologie.
 Mitglied in den Fachgesellschaften EMDRIA und DeGPT.
 
