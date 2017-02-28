@@ -33,6 +33,7 @@ order: 1
  - Seit 2015: Ausbildung in Ego-State-Therapie und Körperarbeit bei W. Hartmann (MEISA), Weiterbildung zur EMDR-Supervisorin.
  - 2016 - Supervisorin (Psychotherapeutenkammer NRW) - tiefenpsychologisch fundierte Psychotherapie
 Schwerpunkte: EMDR und Psychoonkologie.
+
 Mitglied in den Fachgesellschaften EMDRIA und DeGPT.
 
 ![Apollo Raczinski]({{ site.url }}/assets/images/Apollo-216x300.jpg)
