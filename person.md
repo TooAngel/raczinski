@@ -10,14 +10,14 @@ order: 1
 # Biographie und Ausbildung:
 
  - Geboren 1959; verheiratet, 2 Kinder.
- - Diplom im Fach Psychologie: 1983
- - Ärztliches Staatsexamen: 1990
- - AiP-Zeit: 1990-1991
+ - 1983: Diplom im Fach Psychologie
+ - 1990: Ärztliches Staatsexamen
+ - 1990-1991: AiP-Zeit
  - 1 Jan. 1992: Approbation als Ärztin durch den Regierungspräsidenten Köln Mitglied der Ärztekammer Nordrhein; Düsseldorf
  - 5 März 1999: Approbation als Psychologische Psychotherapeutin durch die Bezirksregierung Köln Mitglied der Psychotherapeutenkammer; Düsseldorf
- - Ärztliche stationäre Ausbildungen seit 1990 in den Fächern Innere Medizin, Radiologie, Onkologie, Psychiatrie und Psychosomatik – parallel ambulante psychotherapeutische Tätigkeit.
- - 1996 – Zusatzbezeichnung „Psychotherapie“
- - Seit Nov.2002 ausschließlich ambulante psychotherapeutische Tätigkeit.
+ - Seit 1990: Ärztliche stationäre Ausbildungen in den Fächern Innere Medizin, Radiologie, Onkologie, Psychiatrie und Psychosomatik – parallel ambulante psychotherapeutische Tätigkeit.
+ - 1996: Zusatzbezeichnung „Psychotherapie“
+ - Seit Nov. 2002 ausschließlich ambulante psychotherapeutische Tätigkeit.
  - 2003 – 2007 Mitarbeit an der Entwicklung und Einführung eines psychoonkologischen Konzepts am Brustzentrum des St. Elisabeth- Krankenhauses in Köln – Hohenlind; konsiliarische Tätigkeit und Gruppenarbeit im Brustzentrum.
 
 # Psychotherapieausbildungen:
