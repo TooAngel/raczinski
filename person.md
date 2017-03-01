@@ -22,7 +22,7 @@ order: 1
 
 # Psychotherapieausbildungen:
 
- - 1993-1996 Tiefenpsychologisch fundierte Psychotherapie
+ - 1993-1996 Tiefenpsychologisch fundierte Psychotherapie.
  - 2002 Ausbildung in Psychodynamisch imaginativer Traumatherapie (PITT) bei Prof. Dr. Luise Reddemann
  - 2001-2004 Ausbildung zur EMDR – Therapeutin bei Dr. A. Hofmann
  - 2006 Zusatzqualifikation „Spezielle Psychotraumatologie (DeGPT)”
