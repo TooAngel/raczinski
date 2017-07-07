@@ -5,6 +5,9 @@ permalink: /sprechstunden/
 order: 3
 ---
 
+
+## <span style="color:red">Wegen Umbaumassnahmen bleibt die Praxis zwischen 15.7. und 31.8. geschlossen.</span>
+
 ## Telefonsprechstunde unter 0152 26430745:
 
 Hier können Sie anrufen, wenn Sie einen Termin mit der Praxis vereinbaren oder
