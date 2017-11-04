@@ -5,8 +5,6 @@ permalink: /
 order: 0
 ---
 
-## <span style="color:red">Die Praxis ist vom 21.10.2017 - 5.11.2017 geschlossen</span>
-
 # Behandlungszimmer:
 
 ![Behandlungszimmer]({{ site.url }}/assets/images/DSC_0089.jpg)
