@@ -12,3 +12,7 @@ order: 5
  - Fax: 0221 – 94339851
  - Telefonnummer für die Telefonsprechstunde: 0152 26430745
  - E-Mail: u.raczinski@t-online.de
+
+Zusatzadresse:
+ - Ahrstraße 40
+ - 53945 Blankenheim
