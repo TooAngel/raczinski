@@ -19,3 +19,5 @@ Die Daten werden ausschließlich zur Sicherstellung der Funktionsfähigkeit der 
 
 ## Hinweis auf Verschlüsselung
 Dieses Angebot unterstützt den gesicherten Zugriff über das HTTPS/SSL-Protokoll.
+
+[Patienteninformationen zum Datenschutz in der Praxis]({{ "/assets/Datenschutz.pdf" | absolute_url }})
