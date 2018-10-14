@@ -5,8 +5,6 @@ permalink: /
 order: 0
 ---
 
-## <span style="color:red">Die Praxis ist vom 30.09.2018 - 14.10.2018 wegen Urlaub geschlossen</span>
-
 # Behandlungszimmer:
 
 ![Behandlungszimmer]({{ site.url }}/assets/images/DSC_0089.jpg)
