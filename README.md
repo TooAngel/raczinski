@@ -1,6 +1,4 @@
-# raczinski
-
-Website of Dr. raczinski
+# Website of Dr. raczinski
 
 Add vaction message:
 
