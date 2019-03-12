@@ -5,6 +5,8 @@ permalink: /
 order: 0
 ---
 
+## <span style="color:red">Die Praxis ist vom 15.02.2019 - 12.03.2019 wegen Urlaub geschlossen</span>
+
 # Behandlungszimmer:
 
 ![Behandlungszimmer]({{ site.url }}/assets/images/DSC_0089.jpg)
