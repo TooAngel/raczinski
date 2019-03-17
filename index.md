@@ -5,6 +5,8 @@ permalink: /
 order: 0
 ---
 
+## <span style="color:red">Die Praxis ist vom 15.04.2019 - 20.04.2019 wegen Fortbildung geschlossen</span>
+
 # Behandlungszimmer:
 
 ![Behandlungszimmer]({{ site.url }}/assets/images/DSC_0089.jpg)
