@@ -4,8 +4,6 @@ title: Praxis
 permalink: /
 order: 0
 ---
-
-##<Span style="color:red">Die Praxis ist vom 15.4.-22.4.2019 geschlossen</span>
 # Behandlungszimmer:
 
 ![Behandlungszimmer]({{ site.url }}/assets/images/DSC_0089.jpg)
