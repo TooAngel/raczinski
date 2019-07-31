@@ -5,7 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Dr. med. Ulla Raczinski
 email: u.raczinski@t-online.de
-description: >
+description: Die Praxis ist vom 5.-25.8.19 wegen Urlaubs geschlossen>
   Ärztin-Psychotherapie, Psychologische Psychotherapeutin, Psychoonkologie, Psychotraumatologie
 baseurl: ""
 #url: "http://www.dr-ulla-raczinski.de"
