@@ -13,7 +13,7 @@ order: 4
  - Oder mit dem Auto nach Stadtplan
 
 ![Anfahrt Lindenthal]({{ site.url }}/assets/images/DSC_0214.jpg)
-Fotos: Klaudia Hoffmann, van der Neut
+Foto: Klaudia Hoffmann, van der Neut
 
 ## Blankenheim
 
