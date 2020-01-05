@@ -13,14 +13,11 @@ order: 4
  - Oder mit dem Auto nach Stadtplan
 
 ![Anfahrt Lindenthal]({{ site.url }}/assets/images/DSC_0214.jpg)
+Fotos: Klaudia Hoffmann, van der Neut
 
 ## Blankenheim
 
  - Mit dem Zug bis Blankenheim Wald - von da aus fährt zeitweise der Bus 832 bis Blankenheim - man kann aber auch über folgende Webside einen Taxibus bestellen:
 http://www.rvk.de/startseite/fahrplanauskunft/besondere-fahrangebote/taxibus-info.html
- - Der Taxibus kostet 1€ und fährt dafür an jeden Ort der Gemeinde Blankenheim. Zur Praxis steigt man am besten am Busbahnhof Blankenheim aus und geht dann auf der Ahrstraße noch ca. 500 m bis zur Praxis.
- - Die Anfahrt mit dem Auto ist natürlich auch möglich - Parkplätze gibt es in der Regel mit Parkkarte direkt gegenüber.
-
-![Anfahrt Blankenheim]({{ site.url }}/assets/images/Blankenheim1_RB09037Ausschnitt.jpg)
-
-Fotos: Klaudia Hoffmann, van der Neut
+ - Der Taxibus kostet 1€ und fährt dafür an jeden Ort der Gemeinde Blankenheim.
+ - Die Anfahrt mit dem Auto ist natürlich auch möglich.

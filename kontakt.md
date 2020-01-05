@@ -14,5 +14,5 @@ order: 5
  - E-Mail: u.raczinski@t-online.de
 
 Zusatzadresse:
- - Ahrstraße 40
+ - Eichergasse 24 (Eingang rechte Hausseite)
  - 53945 Blankenheim
