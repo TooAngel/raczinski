@@ -13,7 +13,7 @@ order: 4
  - Oder mit dem Auto nach Stadtplan
 
 ![Anfahrt Lindenthal]({{ site.url }}/assets/images/DSC_0214.jpg)
-Foto: Klaudia Hoffmann, van der Neut
+
 
 ## Blankenheim
 
@@ -21,3 +21,7 @@ Foto: Klaudia Hoffmann, van der Neut
 http://www.rvk.de/startseite/fahrplanauskunft/besondere-fahrangebote/taxibus-info.html
  - Der Taxibus kostet 1€ und fährt dafür an jeden Ort der Gemeinde Blankenheim.
  - Die Anfahrt mit dem Auto ist natürlich auch möglich.
+
+![Anfahrt Blankenheim]({{ site.url }}/assets/images/Blankenheim1_RB09037Ausschnitt.jpg)
+
+Fotos: Klaudia Hoffmann, van der Neut
