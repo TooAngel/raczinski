@@ -24,4 +24,8 @@ http://www.rvk.de/startseite/fahrplanauskunft/besondere-fahrangebote/taxibus-inf
 
 ![Anfahrt Blankenheim]({{ site.url }}/assets/images/Blankenheim1_RB09037Ausschnitt.jpg)
 
+{% raw %}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12084.130096763982!2d6.670900860247663!3d50.452733442047595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bfa720cd670d29%3A0x69b58eb0f389adf6!2sEichergasse%2024%2C%2053945%20Blankenheim!5e0!3m2!1sen!2sde!4v1578562944912!5m2!1sen!2sde" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+{% endraw %}
+
 Fotos: Klaudia Hoffmann, van der Neut
