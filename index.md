@@ -3,9 +3,10 @@ layout: page
 title: Praxis
 permalink: /
 order: 0
----
-## <span style="color: red">Die Praxis ist vom 14.10.2019- 17.01.2020 geschlossen</span>
+
+
 Behandlungszimmer:
+
 
 ![Behandlungszimmer]({{ site.url }}/assets/images/DSC_0089.jpg)
 
