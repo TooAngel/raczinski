@@ -3,7 +3,7 @@ layout: page
 title: Praxis
 permalink: /
 order: 0
-
+---
 
 ## <span style="color: red">Die Praxis ist vorraussichtlich für 4 Wochen geschlossen</span>
 
