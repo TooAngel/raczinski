@@ -5,7 +5,7 @@ permalink: /
 order: 0
 ---
 
-## <span style="color: red">Die Praxis ist vorraussichtlich für 4 Wochen geschlossen</span>
+## <span style="color: red">Die Praxis ist vorraussichtlich bis 31.3.2020 geschlossen</span>
 
 Behandlungszimmer:
 
