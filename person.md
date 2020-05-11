@@ -5,7 +5,7 @@ permalink: /person/
 order: 1
 ---
 
-![Dr. med. Ulla Raczinski]({{ site.url }}/assets/images/Ulla1-200x300.jpg)
+![Dr. med. Ulla Raczinski]({{ site.url }}/assets/images/anhang1.jpg)
 
 # Biographie und Ausbildung:
 
@@ -36,6 +36,6 @@ Schwerpunkte: EMDR und Psychoonkologie.
 
 Mitglied in den Fachgesellschaften EMDRIA und DeGPT.
 
-![Apollo Raczinski]({{ site.url }}/assets/images/Apollo-216x300.jpg)
+![Apollo Raczinski]({{ site.url }}/assets/images/DSC_3910.JPG)
 
 Hund Apollo ist ca. 6 Wochen im Jahr und bei Bedarf anwesend. Apollo ist ein sehr ruhiger, zurückhaltender, therapieerfahrener Hund – auch gut geeignet als Therapiehund bei Hundephobien.
