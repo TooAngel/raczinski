@@ -2,7 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 permalink: /privacypolicy/
-order: 7
+order: 8
 ---
 
 ## Welche Daten werden erhoben?

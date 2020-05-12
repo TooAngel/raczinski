@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Praxis
+title: Köln
 permalink: /
-order: 0
 ---
+Biggestr. 21, 50931 Köln-Lindenthal
 
 ## <span style="color: red">Die Praxis ist vorraussichtlich bis 30.6.2020 geschlossen</span>
+
 
 Behandlungszimmer:
 

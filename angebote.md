@@ -2,7 +2,7 @@
 layout: page
 title: Angebote
 permalink: /angebote/
-order: 2
+order: 3
 ---
 
 Behandelt werden können gesetzlich oder privat versicherte Erwachsene.

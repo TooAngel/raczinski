@@ -2,7 +2,7 @@
 layout: page
 title: Sprechstunden
 permalink: /sprechstunden/
-order: 3
+order: 4
 ---
 
 ## Telefonsprechstunde unter 0152 26430745:

@@ -2,7 +2,7 @@
 layout: page
 title: Impressum
 permalink: /impressum/
-order: 6
+order: 7
 ---
 
 Praxis Dr. Raczinski\\

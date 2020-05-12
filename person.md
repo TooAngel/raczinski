@@ -2,7 +2,7 @@
 layout: page
 title: Person
 permalink: /person/
-order: 1
+order: 2
 ---
 
 ![Dr. med. Ulla Raczinski]({{ site.url }}/assets/images/anhang1.jpg)

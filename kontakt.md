@@ -2,7 +2,7 @@
 layout: page
 title: Kontakt
 permalink: /kontakt/
-order: 5
+order: 6
 ---
 
  - Ulla Raczinski
