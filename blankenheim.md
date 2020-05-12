@@ -18,6 +18,8 @@ Behandlungszimmer:
 ![Behandlungszimmer]({{ site.url }}/assets/images/DSC_3811.JPG)
 {: refdef}
 
+Es gibt einen Besucherparkplatz vor dem Haus, gegenüber der Bäume.
+
 {:refdef: style="text-align: center;"}
 ![Baum]({{ site.url }}/assets/images/DSC_3843.JPG)
 {: refdef}
