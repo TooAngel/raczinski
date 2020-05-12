@@ -6,6 +6,8 @@ permalink: /blankenheim/
 
 Eichergasse 24, 53945 Blankenheim
 
+## <span style="color: red">Die Praxis ist vorraussichtlich bis 30.6.2020 geschlossen</span>
+
 Eingang:
 
 {:refdef: style="text-align: center;"}
@@ -18,14 +20,16 @@ Behandlungszimmer:
 ![Behandlungszimmer]({{ site.url }}/assets/images/DSC_3811.JPG)
 {: refdef}
 
+![Bär]({{ site.url }}/assets/images/DSC_3815.JPG)
+![Blume]({{ site.url }}/assets/images/DSC_3788.JPG)
+
 Es gibt einen Besucherparkplatz vor dem Haus, gegenüber der Bäume.
 
 {:refdef: style="text-align: center;"}
 ![Baum]({{ site.url }}/assets/images/DSC_3843.JPG)
 {: refdef}
 
-![Bär]({{ site.url }}/assets/images/DSC_3815.JPG)
-![Blume]({{ site.url }}/assets/images/DSC_3788.JPG)
+
 
 
 Fotos: Klaudia Hoffmann
