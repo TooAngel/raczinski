@@ -20,7 +20,7 @@ order: 5
  - Mit dem Zug bis Blankenheim Wald - von da aus fährt zeitweise der Bus 832 bis Blankenheim - man kann aber auch über folgende Webside einen Taxibus bestellen:
 http://www.rvk.de/startseite/fahrplanauskunft/besondere-fahrangebote/taxibus-info.html
  - Der Taxibus kostet 1€ und fährt dafür an jeden Ort der Gemeinde Blankenheim.
- - Die Anfahrt mit dem Auto ist natürlich auch möglich.
+ - Die Anfahrt mit dem Auto ist natürlich auch möglich. Es gibt einen Besucherparkplatz vor dem Haus gegenüber den Bäumen.
 
 ![Anfahrt Blankenheim]({{ site.url }}/assets/images/Blankenheim1_RB09037Ausschnitt.jpg)
 
