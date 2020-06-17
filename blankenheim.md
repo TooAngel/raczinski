@@ -6,7 +6,6 @@ permalink: /blankenheim/
 
 Eichergasse 24, 53945 Blankenheim
 
-## <span style="color: red">Die Praxis ist vorraussichtlich bis 30.6.2020 geschlossen</span>
 
 Eingang:
 
