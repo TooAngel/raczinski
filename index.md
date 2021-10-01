@@ -4,7 +4,7 @@ title: Köln
 permalink: /
 ---
 
-## <spanstyle=color:red">Die Praxis ist vom 11.10.-24.10.2021 wegen Urlaub geschlossen</span>
+## <span style=color:red">Die Praxis ist vom 11.10.-24.10.2021 wegen Urlaub geschlossen</span>
 
 Biggestr. 21, 50931 Köln-Lindenthal
 Behandlungszimmer:
