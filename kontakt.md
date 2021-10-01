@@ -11,7 +11,7 @@ order: 6
  - Tel.: 0221 – 94339850
  - Fax: 0221 – 94339851
  - Telefonnummer für die Telefonsprechstunde: 0152 26430745
- - E-Mail: u.raczinski@t-online.de
+ - E-Mail: ulla@dr-raczinski.de
 
 Zusatzadresse:
  - Eichergasse 24 (Eingang rechte Hausseite)
