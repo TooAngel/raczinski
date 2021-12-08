@@ -5,7 +5,7 @@ permalink: /sprechstunden/
 order: 4
 ---
 
-## Telefonsprechstunde unter 0152 26430745:
+## Telefonsprechstunde unter 0178 5117305:
 
 Hier können Sie anrufen, wenn Sie einen Termin mit der Praxis vereinbaren oder
 ändern wollen. Telefonsprechstunden sind: Dienstag, Mittwoch und Donnerstag
@@ -22,4 +22,4 @@ verschiedenen psychotherapeutischen Behandlungsformen in der Regel
 Sprechstundenzeiten von mindestens 50 Min. nachgewiesen werden.
 Meine Praxis bietet 2 Sprechstundentermine zu je 50 Minuten pro Woche an.
 Termine dazu vereinbaren Sie bitte in der Telefonsprechstunde unter
-0152 26430745.
+0178 5117305.
