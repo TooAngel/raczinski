@@ -10,7 +10,7 @@ order: 6
  - 50931 Köln-Lindenthal
  - Tel.: 0221 – 94339850
  - Fax: 0221 – 94339851
- - Telefonnummer für die Telefonsprechstunde: 0152 26430745
+ - Telefonnummer für die Telefonsprechstunde: 0178 5117305
  - E-Mail: ulla@dr-raczinski.de
 
 Zusatzadresse:
