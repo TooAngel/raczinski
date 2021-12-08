@@ -4,6 +4,7 @@ title: Köln
 permalink: /
 ---
 
+## <span style="color:red">Neue Telefonnummer für die Telefonsprechzeit: 0178 5117305</span>
 
 Biggestr. 21, 50931 Köln-Lindenthal
 Behandlungszimmer:
