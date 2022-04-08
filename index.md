@@ -4,7 +4,7 @@ title: Köln
 permalink: /
 ---
 
-
+## <span style= "color:red">Die Praxis ist vom 11.4.-24.4.22 geschlossen</span>
 ## <span style="color:red">Neue Telefonnummer für die Telefonsprechzeit: 0178 5117305</span>
 
 Biggestr. 21, 50931 Köln-Lindenthal
