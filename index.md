@@ -4,7 +4,6 @@ title: Köln
 permalink: /
 ---
 
-## <span style="color:red">Die Praxis ist vom 11.4.-21.4.2023 wegen Urlaub geschlossen</span>
 
 Biggestr. 21, 50931 Köln-Lindenthal
 Behandlungszimmer:
