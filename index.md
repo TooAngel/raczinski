@@ -4,7 +4,7 @@ title: Köln
 permalink: /
 ---
 
-## <span style="color:red">Die Praxis ist vom 3.7.23-31.07.23 wegen Urlaub geschlossen</span>
+## <span style="color:red">Die telefonische Sprechstunde 3.8.23-27.08.23 wegen Urlaub geschlossen</span>
 Biggestr. 21, 50931 Köln-Lindenthal
 Behandlungszimmer:
 
