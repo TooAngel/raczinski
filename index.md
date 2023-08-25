@@ -4,7 +4,6 @@ title: Köln
 permalink: /
 ---
 
-## <span style="color:red">Die telefonische Sprechstunde 3.8.23-27.08.23 wegen Urlaubs geschlossen.</span>
 Biggestr. 21, 50931 Köln-Lindenthal
 Behandlungszimmer:
 
