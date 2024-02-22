@@ -8,8 +8,7 @@ order: 4
 ## Telefonsprechstunde unter 0178 5117305:
 
 Hier können Sie anrufen, wenn Sie einen Termin mit der Praxis vereinbaren oder
-ändern wollen. Telefonsprechstunden sind: Dienstag, Mittwoch und Donnerstag
-jeweils von 8:00 Uhr - 9:15 Uhr.
+ändern wollen. Telefonsprechstunden sind: Mittwochs von 9:00 Uhr - 12:45 Uhr.
 
 
 ## Sprechstunden:
