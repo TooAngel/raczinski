@@ -4,7 +4,7 @@ title: Köln
 permalink: /
 ---
 
-## <span style="color:red">Die Praxis von Frau Dr. Raczinski ist vom 01.07.2024-31.07.2024 wegen Urlaubs geschlossen</span>
+## <span style="color:red">Die Praxis von Frau Dr. Raczinski ist vom 01.07.2024-31.07.2024 wegen Urlaubs geschlossen. Die telefonische Sprechstunde und die Neuanmeldung sind bis 14.8.24 geschlossen!</span>
 Biggestr. 21, 50931 Köln-Lindenthal
 Behandlungszimmer:
 
