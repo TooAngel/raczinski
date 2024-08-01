@@ -2,9 +2,11 @@
 layout: page
 title: Köln
 permalink: /
----ed">Die telefonische Sprechstunde und die Neuanmeldung sind bis 14.8.24 geschlossen!</span>
+
 Biggestr. 21, 50931 Köln-Lindenthal
-Behandlungszimmer:
+Behandlungszimmer
+:---ed">Die telefonische Sprechstunde und die Neuanmeldung sind bis 14.8.24 geschlossen!</span>
+
 
 
 ![Behandlungszimmer]({{ site.url }}/assets/images/DSC_0089.jpg)
