@@ -2,6 +2,7 @@
 layout: page
 title: Köln
 permalink: /
+---
 
 Biggestr. 21, 50931 Köln-Lindenthal
 Behandlungszimmer
