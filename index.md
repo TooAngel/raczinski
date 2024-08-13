@@ -4,7 +4,7 @@ title: Köln
 permalink: /
 ---
 
-## <span style="color:red">Die telefonische Sprechstunde und die Neuanmeldung sind bis 14.8.24 geschlossen!</span>
+## <span style="color:red">Meine Kassenpraxis schließt zum 31.12.24. Die Praxis wird als Privatpraxis und Praxis für Unfallkassen in der Eifel weitergeführt.</span>
 
 Biggestr. 21, 50931 Köln-Lindenthal
 Behandlungszimmer
