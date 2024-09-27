@@ -4,7 +4,8 @@ title: Köln
 permalink: /
 ---
 
-## <span style="color:red">Meine Kassenpraxis schließt zum 31.12.24. Die Praxis wird als Privatpraxis und Praxis für Unfallkassen in der Eifel weitergeführt.</span>
+## <span style="color:red">Die Praxis ist vom 30.9.-13.10.24 wegen Urlaubs geschlossen.
+Meine Kassenpraxis schließt zum 31.12.24. Die Praxis wird als Privatpraxis und Praxis für Unfallkassen in der Eifel weitergeführt.</span>
 
 Biggestr. 21, 50931 Köln-Lindenthal
 Behandlungszimmer
