@@ -8,3 +8,11 @@ Add vaction message:
 1. Scroll down, add summary where `Update index.md` is written
 1. Click on commit
 1. Check website
+
+
+
+## Development
+
+```
+./testlocal.sh
+```
