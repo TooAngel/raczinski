@@ -17,7 +17,7 @@ Add vaction message:
 ./testlocal.sh
 ```
 
-Update dependencies
+### Update dependencies
 
 ```
 bundle outdated
