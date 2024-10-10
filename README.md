@@ -16,3 +16,10 @@ Add vaction message:
 ```
 ./testlocal.sh
 ```
+
+Update dependencies
+
+```
+bundle outdated
+bundle update
+```
