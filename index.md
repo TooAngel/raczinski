@@ -15,6 +15,3 @@ Steinfelder Straße 2a, 53947 Nettersheim
 ![Aussenansicht]({{ site.url }}/assets/images/nettersheim/image1.jpeg)
 
 ![Aussenansicht]({{ site.url }}/assets/images/nettersheim/image2.jpeg)
-
-Fotos: Klaudia Hoffmann
-
