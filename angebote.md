@@ -5,7 +5,7 @@ permalink: /angebote/
 order: 3
 ---
 
-Behandelt werden können gesetzlich oder privat versicherte Erwachsene.
+Behandelt werden können privat und über Unfallversicherungen versicherte Patienten.
 
 Die Praxis bietet an:
 Psychotherapie von und Beratung zu psychischen und psychosomatischen

@@ -8,11 +8,9 @@ order: 7
 Praxis Dr. Raczinski\\
 Dr. Ulla Raczinski
 
-Biggestr. 21\\
-50931 Köln-Lindenthal
+Steinfelder Straße 2a\\
+53947 Nettersheim
 
-Telefon: 0221 – 94339850\\
-Telefax: 0221 – 94339851\\
 e-Mail: ulla@dr-raczinski.de\\
 Website: [http://www.dr-raczinski.de/](http://www.dr-raczinski.de/)
 
@@ -25,11 +23,6 @@ Wilstätterstr. 10\\
 Ärztekammer Nordrhein\\
 Tersteegenstr. 9\\
 40474 Düsseldorf
-
-Zuständige Kassenärztliche Vereinigung\\
-KV Nordrhein\\
-Sedanstr. 10\\
-50668 Köln
 
 Berufsbezeichnung:\\
 Psychologische Psychotherapeutin\\

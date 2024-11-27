@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Köln
+title: Praxis
 permalink: /
-# <span style="color:red"> Meine Kassenpraxis schließt zum 31.12.24! Die Praxis wird ab 15.01.25 als Privatpraxis und Praxis für Unfallkassen in Nettersheim/Eifel,Steinfelder Straße 2a weitergeführt. Anmeldungen unter: ulla@dr-raczinski.de</span>
+order: 1
+---
 
-Biggestr. 21, 50931 Köln-Lindenthal
-Behandlungszimmer
+## <span style="color:green">Die Praxis öffnet wieder ab dem 15.01.25 als Privatpraxis und Praxis für Unfallkassen in Nettersheim/Eifel,Steinfelder Straße 2a. Anmeldungen unter: ulla@dr-raczinski.de</span>
 
-![Behandlungszimmer]({{ site.url }}/assets/images/DSC_0089.jpg)
+Meine Nachfolgerin in Köln Frau Ava Ernst erreichen Sie Mittwochs zw. 9 und 12 Uhr unter 01785117305.
 
-![Behandlungszimmer]({{ site.url }}/assets/images/DSC_0099.jpg)
+Steinfelder Straße 2a, 53947 Nettersheim
 
-Fotos: Klaudia Hoffmann
 
-# EMDR-Behandlungsraum:
+![Aussenansicht]({{ site.url }}/assets/images/nettersheim/image0.jpeg)
 
-![Behandlungszimmer]({{ site.url }}/assets/images/EMDRIMG_2314-e1442346188911-225x300.jpg)
+![Aussenansicht]({{ site.url }}/assets/images/nettersheim/image1.jpeg)
+
+![Aussenansicht]({{ site.url }}/assets/images/nettersheim/image2.jpeg)
