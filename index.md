@@ -5,7 +5,7 @@ permalink: /
 order: 1
 ---
 
-## <span style="color:green">Die Praxis öffnet wieder ab dem 15.01.25 als Privatpraxis und Praxis für Unfallkassen in Nettersheim/Eifel,Steinfelder Straße 2a. Anmeldungen unter: ulla@dr-raczinski.de</span>
+## <span style="color:green">Die Praxis öffnet wieder ab dem 14.01.25 als Privatpraxis und Praxis für Unfallkassen in Nettersheim/Eifel,Steinfelder Straße 2a. Anmeldungen unter: ulla@dr-raczinski.de</span>
 
 Meine Nachfolgerin in Köln Frau Ava Ernst erreichen Sie Mittwochs zw. 9 und 12 Uhr unter 01785117305.
 
