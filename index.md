@@ -10,10 +10,11 @@ order: 1
 
 Meine Nachfolgerin in Köln - Frau Ava Ernst - erreichen Sie Mittwochs zw. 9 und 12 Uhr unter 01785117305.
 
-Euskirchener Straße 38, 53947 Nettersheim-Tondorf
+Euskirchener Straße 38, 53947 Nettersheim-Tondorf, Eingang rechte Hausseite
 
 
 ![Aussenansicht]({{ site.url }}/assets/images/tondorf/Vorne.jpeg)
 
+Eingang rechte Hausseite
 ![Eingang]({{ site.url }}/assets/images/tondorf/Eingang.jpeg)
 
