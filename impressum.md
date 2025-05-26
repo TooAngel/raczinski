@@ -20,19 +20,14 @@ Psychotherapeutenkammer Nordrhein \\
 Wilstätterstr. 10\\
 40549 Düsseldorf
 
-Ärztekammer Nordrhein\\
-Tersteegenstr. 9\\
-40474 Düsseldorf
 
 Berufsbezeichnung:\\
 Psychologische Psychotherapeutin\\
-Ärztin-Psychotherapie
+Ärztin-Psychotherapie i.R.
 
 Berufsrechtliche Regelungen:\\
 Berufsordnung der Psychotherapeutenkammer Nordrhein\\
 [www.ptk-nrw.de](http://www.ptk-nrw.de)\\
-Berufsordnung der Ärztekammer Nordrhein\\
-[www.aekno.de](http://www.aekno.de)
 
 
 Inhaltlich Verantwortliche:\\
