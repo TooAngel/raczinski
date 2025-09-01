@@ -13,8 +13,8 @@ order: 2
  - 1983: Diplom im Fach Psychologie
  - 1990: Ärztliches Staatsexamen
  - 1990-1991: AiP-Zeit
- - 1 Jan. 1992: Approbation als Ärztin durch den Regierungspräsidenten Köln Mitglied der Ärztekammer Nordrhein; Düsseldorf
- - 5 März 1999: Approbation als Psychologische Psychotherapeutin durch die Bezirksregierung Köln Mitglied der Psychotherapeutenkammer; Düsseldorf
+ - 1 Jan. 1992: Approbation als Ärztin durch den Regierungspräsidenten Köln. Mitglied der Ärztekammer Rheinland-Pfalz; Koblenz
+ - 5 März 1999: Approbation als Psychologische Psychotherapeutin durch die Bezirksregierung Köln. Mitglied der Psychotherapeutenkammer; Düsseldorf
  - Seit 1990: Ärztliche stationäre Ausbildungen in den Fächern Innere Medizin, Radiologie, Onkologie, Psychiatrie und Psychosomatik – parallel ambulante psychotherapeutische Tätigkeit.
  - 1996: Zusatzbezeichnung „Psychotherapie“
  - Seit Nov. 2002 ausschließlich ambulante psychotherapeutische Tätigkeit.
