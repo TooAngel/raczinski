@@ -34,6 +34,6 @@ order: 2
  - 2016 - Supervisorin (Psychotherapeutenkammer NRW) - tiefenpsychologisch fundierte Psychotherapie
 Schwerpunkte: EMDR und Psychoonkologie.
 
-![Apollo Raczinski]({{ site.url }}/assets/images/DSC_3910.JPG)
 
-Hund Apollo ist ca. 6 Wochen im Jahr und bei Bedarf anwesend. Apollo ist ein sehr ruhiger, zurückhaltender, therapieerfahrener Hund – auch gut geeignet als Therapiehund bei Hundephobien.
+
+
